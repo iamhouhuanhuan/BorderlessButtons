@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:17:1-48:12
+	package
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:18:5-52
+	android:versionName
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:33:5-46:19
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\23e6c3ba2843533d5f1e451d097e1f00d0c00cc2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\f2abd02d23a185114c967b315b00cba87376539f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\9040b070e83b597103dd17251138731baed97396\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\c891e4bf8853b62b5c0ec4c90d2cadfecb11aed5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\c0dc3418accd64f04e2d445dfafa5d061286e0d8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\2e72d6d0657399a40cf53ce31fb83b2b565ac704\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\31ad8db21e733414c1e437c9011c1d5034ddcf62\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\1e66abd9d56a04adc2d5933bd3559e53a93311bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\462e79281241fe58c3abad5f6b08d687ab05117a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\8b5e651d9a25b1bef13ce2237d32b991197ada6a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\62dc197b944f745f8ba5480b457f800f8e35a29f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:33:18-50
+	android:allowBackup
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:36:9-35
+	android:icon
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:34:9-45
+	android:theme
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:35:9-44
+activity#com.example.android.borderlessbuttons.MainActivity
+ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:38:9-44:20
+	android:label
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:38:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\23e6c3ba2843533d5f1e451d097e1f00d0c00cc2\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\f2abd02d23a185114c967b315b00cba87376539f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\9040b070e83b597103dd17251138731baed97396\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\c891e4bf8853b62b5c0ec4c90d2cadfecb11aed5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\c0dc3418accd64f04e2d445dfafa5d061286e0d8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\2e72d6d0657399a40cf53ce31fb83b2b565ac704\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\31ad8db21e733414c1e437c9011c1d5034ddcf62\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\1e66abd9d56a04adc2d5933bd3559e53a93311bf\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\462e79281241fe58c3abad5f6b08d687ab05117a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\8b5e651d9a25b1bef13ce2237d32b991197ada6a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\62dc197b944f745f8ba5480b457f800f8e35a29f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\23e6c3ba2843533d5f1e451d097e1f00d0c00cc2\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\23e6c3ba2843533d5f1e451d097e1f00d0c00cc2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\f2abd02d23a185114c967b315b00cba87376539f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\9040b070e83b597103dd17251138731baed97396\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\c891e4bf8853b62b5c0ec4c90d2cadfecb11aed5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\c0dc3418accd64f04e2d445dfafa5d061286e0d8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\2e72d6d0657399a40cf53ce31fb83b2b565ac704\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\31ad8db21e733414c1e437c9011c1d5034ddcf62\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\1e66abd9d56a04adc2d5933bd3559e53a93311bf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\462e79281241fe58c3abad5f6b08d687ab05117a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\8b5e651d9a25b1bef13ce2237d32b991197ada6a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\62dc197b944f745f8ba5480b457f800f8e35a29f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\23e6c3ba2843533d5f1e451d097e1f00d0c00cc2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Administrator\.android\build-cache\23e6c3ba2843533d5f1e451d097e1f00d0c00cc2\output\AndroidManifest.xml:26:9-47

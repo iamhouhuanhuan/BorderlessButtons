@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStuio\\Andriod_Workplace\\BorderlessButtons\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "F:\\AndroidStuio\\Andriod_Workplace\\BorderlessButtons\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStuio\\Andriod_Workplace\\BorderlessButtons\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\AndroidStuio\\Andriod_Workplace\\BorderlessButtons\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStuio\\Andriod_Workplace\\BorderlessButtons\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_delete.png",
+        "source": "F:\\AndroidStuio\\Andriod_Workplace\\BorderlessButtons\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_delete.png"
+    }
+]

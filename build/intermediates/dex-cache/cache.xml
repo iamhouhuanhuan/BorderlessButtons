@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\f2abd02d23a185114c967b315b00cba87376539f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_792f4d7e47786e6cead5999c51dd8dcd5291117f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStuio\Andriod_SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6a21497ff5b9dea2e901dd89227480da957a04e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c0dc3418accd64f04e2d445dfafa5d061286e0d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_7f4b3b6d5b2bd2c689ca87e02356c94a28a04e12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2e72d6d0657399a40cf53ce31fb83b2b565ac704\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_475e3934ed046273531d30cccae570a83b7802e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\462e79281241fe58c3abad5f6b08d687ab05117a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_bd84480b548ae1d5aa7ee2ce5fee007e6eb9cce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\23e6c3ba2843533d5f1e451d097e1f00d0c00cc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_d0dd49ce96d56d15c9866bb80e68162a80e74db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\9040b070e83b597103dd17251138731baed97396\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_8a5a005cd1ef4e8e6de71d2cda4075d15f651ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c891e4bf8853b62b5c0ec4c90d2cadfecb11aed5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_22df9f9a0cab444bad1febbfeef5c469e42e4f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\31ad8db21e733414c1e437c9011c1d5034ddcf62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_030beafa69ccbd9c27b9b2746e937f382146dd53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\62dc197b944f745f8ba5480b457f800f8e35a29f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_b086326716e06940f2a69842816a7cfe35e66ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8b5e651d9a25b1bef13ce2237d32b991197ada6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_8881539c1799c2db5fdca62ed5ff1437efa32b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\1e66abd9d56a04adc2d5933bd3559e53a93311bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\AndroidStuio\Andriod_Workplace\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes_e6f69a7d90724a603324804e830c6ee7d89bc57e.jar" />
+    </item>
+
+</items>
